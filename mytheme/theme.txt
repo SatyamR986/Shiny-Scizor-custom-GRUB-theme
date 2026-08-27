@@ -1,0 +1,91 @@
+desktop-image: "boot2.png"
+title-text: ""
+
+# SHINY SCIZOR
+
++ label {
+  top = 34%
+  left = 51%
+  width = 3%
+  align = "left"
+  font = "Press Start 2P Regular 20"
+  text = "S"
+  color = "#ffd700"
+}
+
++ label {
+  top = 34%
+  left = 53%
+  width = 18%
+  align = "left"
+  font = "Press Start 2P Regular 20"
+  text = "SCIZOR"
+  color = "#ffffff"
+}
+
++ label {
+  top = 34%
+  left = 70%
+  width = 8%
+  align = "left"
+  font = "Press Start 2P Regular 16"
+  text = "Lv100"
+  color = "#ffd700"
+}
+
+# TYPE
+
++ label {
+  top = 38%
+  left = 51%
+  width = 25%
+  align = "left"
+  font = "Press Start 2P Regular 11"
+  text = "BUG/STEEL"
+  color = "#7ea57e"
+}
+
+# BATTLE
+
++ label {
+  top = 45%
+  left = 51%
+  width = 15%
+  align = "left"
+  font = "Press Start 2P Regular 16"
+  text = "BATTLE!"
+  color = "#ffd700"
+}
+
+# MENU
+
++ boot_menu {
+  left = 50%
+  top = 52%
+  width = 28%
+  height = 28%
+
+  item_font = "Press Start 2P Regular 11"
+
+  item_height = 28
+  item_padding = 0
+  item_spacing = 4
+  item_icon_space = 0
+
+  item_color = "#7ea57e"
+  selected_item_color = "#ffd700"
+
+  scrollbar = false
+}
+
+# VERSION
+
++ label {
+  top = 97%
+  left = 2%
+  width = 8%
+  align = "left"
+  font = "Press Start 2P Regular 9"
+  text = "v1.0"
+  color = "#ffd700"
+}
