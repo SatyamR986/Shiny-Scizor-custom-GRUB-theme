@@ -4,16 +4,7 @@ A custom GRUB bootloader theme. Clone this repository and run one script to inst
 
 ## Requirements
 
-* An OS using GRUB as its bootloader:
-
-  * Ubuntu
-  * Debian
-  * Fedora
-  * Arch Linux
-  * openSUSE
-  * Linux Mint
-  * Pop!_OS
-  * etc.
+* An OS using GRUB as its bootloader: (Ubuntu, Debian, Fedora, Arch, openSUSE, Mint, Pop!_OS, etc.)
 * Python 3
 * `sudo` access
 
